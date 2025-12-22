@@ -2,7 +2,7 @@
 
 Do you enjoy my YouTube channel (https://YouTube.com/reuvenlerner)?  If so, then you've probably noticed I use Jupyter and Marimo notebooks in nearly every video.  This repo contains the notebooks from some of my videos.  As I do more videos, I'll add them here.
 
-If you have comments about my videos, or suggestions for topics I can/should address in the future, please let me know at [@reuvenmlerner on Twitter](https://twitter.com/reuvenmlerner) or via e-mail at [reuven@lernerpython.com](mailto:reuven@lernerpython.com).
+If you have comments about my videos, or suggestions for topics I can/should address in the future, please let me know! You can reach me most easily at [reuven@lernerpython.com](mailto:reuven@lernerpython.com).
 
 If you like my videos, you might also like:
 
