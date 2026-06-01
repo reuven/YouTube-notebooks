@@ -1,0 +1,17 @@
+[project]
+name = "notebooks"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "gitautopush>=0.4.1",
+    "ipyparallel>=9.2.0",
+    "jupyter>=1.1.1",
+    "jupyter-core>=5.9.1",
+    "marimo>=0.23.8",
+    "numpy>=2.4.6",
+    "pandas>=3.0.3",
+    "plotly>=6.7.0",
+    "pytest>=9.0.3",
+]
